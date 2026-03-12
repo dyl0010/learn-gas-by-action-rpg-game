@@ -57,7 +57,7 @@ PrivateDependencyModuleNames.AddRange(
 
 ## 参考链接
 
-- 文章中的配图使用drawio绘制，[这里]()可以找到原始草稿
+- 文章中的配图使用drawio绘制，[这里](./unreal-project-action-rpg.drawio)可以找到原始草稿
 
 - 官方文档[Action RPG Game](https://dev.epicgames.com/documentation/en-us/unreal-engine/action-rpg-game?application_version=4.27)
 
